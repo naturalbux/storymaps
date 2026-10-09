@@ -13,4 +13,4 @@ Link to my data storytelling presentations
   - [Capturing Community in Southeast Portland](https://storymaps.arcgis.com/stories/ff0ff72c27674dafa04462530705dff3)
   - [Brazil Norte-Sul](https://storymaps.arcgis.com/stories/b88715d42ed34a54a3ba64eb0a9ea270)
 
-More on my portfolio (naturalbux.com)
+More on my portfolio [Natural Bux](https://naturalbux.com/)
